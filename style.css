@@ -1,0 +1,8 @@
+body {
+    font-family: 'Noto Serif Khmer', serif;
+    font-family: 'Roboto', sans-serif;
+}
+.wrap_page {
+    width: 1080px;
+    overflow: hidden;
+}
